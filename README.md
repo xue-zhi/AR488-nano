@@ -1,5 +1,5 @@
 # AR488-Nano
-Custom PCB for [Twilight Logic's AR488](https://github.com/Twilight-Logic/AR488) GPIB adapter for use with an Arduino Nano 3.0.
+PCB for Arduino Nano 3.0 and [AR488](https://github.com/Twilight-Logic/AR488) GPIB adapter.
 
 ![3dmodel](/images/3dmodel.png?raw=true)
 
